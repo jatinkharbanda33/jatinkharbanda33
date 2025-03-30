@@ -1,5 +1,5 @@
 # 💫 About Me:
-Contributing to Web and App Development Projects and learning everything that is coming between.
+Experienced NodeJS, SpringBoot, React Developer having 8 months experience working on backend systems, scalable architectures, notification and emails architectures.
 
 
 ## 🌐 Socials:
